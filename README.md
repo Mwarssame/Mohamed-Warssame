@@ -6,10 +6,15 @@ I'm a **Network | Cloud & CyberSecyrity | Consultant |Technologist** with a pass
 Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds). Defensive Security & Cloud-First Security Architectures.
 Access and Identity Management (IAM) – including  (RBAC), SSO, and MFA across hybrid and cloud environments.
 Zero Trust Architecture, SASE, and Network Access Control.
-Next-Generation Firewalls (NGFWs) and  Application-aware identity-based access control
+Next-Generation Firewalls (NGFWs) and  Application-aware identity-based access control.
 Routing & Switching, including OSPF, BGP and MPLS.
 Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation.
+Automate Configuration Deployment with Ansible.
 TLS (Transport Layer Security) for secure communications.802.1X Network Access Control for port-based authentication.
+Data Protection in the Modern Era: GDPR, NIST Guidelines, and Best Practices.Including Data classification and inventory management
+- Encryption, access controls, and data minimization strategies
+- Incident response and breach notification processes
+- Employee training and awareness programs
 
 I strive to learn what I do not know, and practice what I know — continuously evolving as a security technologist and network professional.
 - 📚 Lifelong learner & mentor — active in tech communities since 2006

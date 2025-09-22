@@ -3,14 +3,19 @@
 I'm a **Network | Cloud & CyberSecyrity Technologist** with a passion for building resilient, secure systems and teaching what I learn.
 
 - 🛠️ Skills & Mindset:
-Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds). Defensive Security & Cloud-First Security Architectures
-Zero Trust Architecture, SASE, and Network Access Control.Next-Generation Firewalls (NGFWs) – Application-aware, identity-based access control
-Routing & Switching, including BGP and MPLS.Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation
-TLS (Transport Layer Security) for secure communications.802.1X Network Access Control for port-based authentication
+Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds). Defensive Security & Cloud-First Security Architectures.
+Access and Identity Management (IAM) – including  (RBAC), and  its integration with cloud identity providers.
+Zero Trust Architecture, SASE, and Network Access Control.
+Next-Generation Firewalls (NGFWs) and  Application-aware identity-based access control
+Routing & Switching, including OSPF, BGP and MPLS.
+Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation.
+TLS (Transport Layer Security) for secure communications.802.1X Network Access Control for port-based authentication.
+
 I strive to learn what I do not know, and practice what I know — continuously evolving as a security technologist and network professional.
 - 📚 Lifelong learner & mentor — active in tech communities since 2006
 - 🧰 Vendors and tools I work with: Cisco,F5, Juniper,  Palo Alto, Wireshark, AWS, Azure  Linux , Terraform and  Ansible
-- 🌱 Currently learning: Kubernetes security & threat hunting on sensitive applications 
+- 🌱 Currently learning: Kubernetes security & threat hunting on sensitive applications
+  
 - ✍️ I write articles on network defence and automation.
 - Active since 2006 — never stepped away from the field
 - Recognised as both a learner and teacher
@@ -18,19 +23,19 @@ I strive to learn what I do not know, and practice what I know — continuously 
   
 🚀 Key Projects & Achievements (2022–2024)
 
-- Mitigated Log4j vulnerability across production environments
+- Mitigated Log4j vulnerability across production environments.
 - Upgraded 54 Next-Generation Firewalls to strengthen perimeter security
 - Designed and tuned SOAR & XSIAM platforms for automated detection and response
-- Built incident response playbooks and integrated threat intelligence with live systems
-- Streamlined SIEM and SOC workflows for faster triage and resolution
-- Deployed SolarWinds for enterprise-grade cloud monitoring
-- Refreshed Cisco LAN infrastructure by deploying Cisco DNA Center and Cisco SD-Access, replacing legacy switching for cloud readiness, automation, and - network segmentation and moved 120 sites to cloud environment.
-- Migrated 120 sites to AWS cloud  and Azureenvironment, enabling scalable, secure, and modernised operations.
+- Built incident response playbooks and integrated threat intelligence with live systems.
+- Streamlined SIEM and SOC workflows for faster triage and resolution.
+- Deployed SolarWinds for enterprise-grade cloud monitoring.
+- Refreshed Cisco LAN infrastructure by deploying Cisco DNA Center and Cisco SD-Access, replacing legacy switching for cloud readiness, automation, and  network segmentation.
+- Moved and migrated 120 sites to AWS cloud  and Azureenvironment, enabling scalable, secure, and modernised operations.
 - Memory Forensics & Vulnerability Management.
 
 📫....---
 
-📫 **Full Network and Cybersecurity Forensics toolkit coming soon...**  
+📫 **Full Network and Cybersecurity Forensics toolkit coming soon..**  
 Stay tuned for in-depth guides, real-world use cases, and hands-on tools.
 
 🧪 For Now, Let Me Share a Little Project on Memory Forensics

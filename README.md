@@ -59,7 +59,7 @@ Vulnerability Analysis & Ranking – We Prioritiseed based on severity and busin
 
 Remediation Planning – Applied patches and recommended  mitigations.
 
-Patch Testing & Deployment – Verified patch safety in pre-production environment and  appled stable versions
+Patch Testing & Deployment – Verified and  patched instances in pre-production environment and  appled stable versions to productions
 
 Verification & Monitoring – Continuous scanning and tracking over time.
 

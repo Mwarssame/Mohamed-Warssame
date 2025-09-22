@@ -4,7 +4,7 @@ I'm a **Network | Cloud & CyberSecyrity Technologist** with a passion for buildi
 
 - 🛠️ Skills & Mindset:
 Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds). Defensive Security & Cloud-First Security Architectures.
-Access and Identity Management (IAM) – including  (RBAC), and  its integration with cloud identity providers.
+Access and Identity Management (IAM) – including  (RBAC), SSO, and MFA across hybrid and cloud environments.
 Zero Trust Architecture, SASE, and Network Access Control.
 Next-Generation Firewalls (NGFWs) and  Application-aware identity-based access control
 Routing & Switching, including OSPF, BGP and MPLS.

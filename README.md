@@ -8,7 +8,7 @@ Zero Trust Architecture, SASE, and Network Access Control.Next-Generation Firewa
 Routing & Switching, including BGP and MPLS.Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation
 TLS (Transport Layer Security) for secure communications.802.1X Network Access Control for port-based authentication
 I strive to learn what I do not know, and practice what I know — continuously evolving as a security technologist and network professional.
-- 📚 Lifelong learner & mentor — active in tech communities since 2020
+- 📚 Lifelong learner & mentor — active in tech communities since 2006
 - 🧰 Vendors and tools I work with: Cisco,F5, Juniper,  Palo Alto, Wireshark, AWS, Azure  Linux , Terraform and  Ansible
 - 🌱 Currently learning: Kubernetes security & threat hunting on sensitive applications 
 - ✍️ I write articles on network defence and automation.

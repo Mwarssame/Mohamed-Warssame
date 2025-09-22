@@ -25,7 +25,7 @@ I strive to learn what I do not know, and practice what I know — continuously 
 - Streamlined SIEM and SOC workflows for faster triage and resolution
 - Deployed SolarWinds for enterprise-grade cloud monitoring
 - Refreshed Cisco LAN infrastructure by deploying Cisco DNA Center and Cisco SD-Access, replacing legacy switching for cloud readiness, automation, and - network segmentation and moved 120 sites to cloud environment.
-- Migrated 120 sites to a cloud environment, enabling scalable, secure, and modernised operations.
+- Migrated 120 sites to AWS cloud  and Azureenvironment, enabling scalable, secure, and modernised operations.
 - Memory Forensics & Vulnerability Management.
 
 📫....---

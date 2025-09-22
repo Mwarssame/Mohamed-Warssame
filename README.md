@@ -2,12 +2,16 @@
 🧑‍🏫 About Me
 I'm a **Network & Security Technologist** with a passion for building resilient, secure systems and teaching what I learn.
 
-- 🔐 Cybersecurity, Cloud Security, Zero Trust Architectures
-- 🛠️ Skilled in firewalls, IDS/IPS, automation tools, and cloud infrastructure 
+- 🛠️ Skills & Mindset:
+Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds). Defensive Security & Cloud-First Security Architectures
+Zero Trust Architecture, SASE, and Network Access Control.Next-Generation Firewalls (NGFWs) – Application-aware, identity-based access control
+Routing & Switching, including BGP and MPLS.Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation
+TLS (Transport Layer Security) for secure communications.802.1X Network Access Control for port-based authentication
+I strive to learn what I do not know, and practice what I know — continuously evolving as a security technologist and network professional.
 - 📚 Lifelong learner & mentor — active in tech communities since 2020
-- 🧰 Tools I work with: Cisco, Palo Alto, Wireshark, AWS, Linux, Ansible
-- 🌱 Currently learning: Kubernetes security & threat hunting
-- ✍️ I write articles on network defense and automation.
+- 🧰 Vendors and tools I work with: Cisco,F5, Juniper,  Palo Alto, Wireshark, AWS, Azure  Linux , Terraform and  Ansible
+- 🌱 Currently learning: Kubernetes security & threat hunting on sensitive applications 
+- ✍️ I write articles on network defence and automation.
 - Active since 2020 — never stepped away from the field
 - Recognised as both a learner and teacher
 - Passionate about knowledge sharing, automation, and resilient architecture

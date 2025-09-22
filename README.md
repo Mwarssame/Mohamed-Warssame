@@ -46,15 +46,15 @@ This project is a curated quick-reference guide and hands-on toolkit that integr
 
 Integrated forensics into a structured vulnerability management workflow:
 
-Asset Discovery – Inventory all hardware, software, and network assets.
+Asset Discovery –  we started  with Inventory  hardware, software, and ended with  network assets listing.
 
-Vulnerability Scanning – Identify and classify vulnerabilities.
+Vulnerability Scanning –  we Identifeied  and classified  vulnerabilities into catergories
 
-Vulnerability Analysis & Ranking – Prioritize based on severity and business impact.
+Vulnerability Analysis & Ranking – We Prioritiseed based on severity and business impact.
 
-Remediation Planning – Apply patches or mitigations.
+Remediation Planning – Applied patches and recommended  mitigations.
 
-Patch Testing & Deployment – Verify patch safety and stability.
+Patch Testing & Deployment – Verified patch safety in pre-production environment and  appled stable versions
 
 Verification & Monitoring – Continuous scanning and tracking over time.
 

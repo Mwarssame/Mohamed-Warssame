@@ -12,7 +12,7 @@ I strive to learn what I do not know, and practice what I know — continuously 
 - 🧰 Vendors and tools I work with: Cisco,F5, Juniper,  Palo Alto, Wireshark, AWS, Azure  Linux , Terraform and  Ansible
 - 🌱 Currently learning: Kubernetes security & threat hunting on sensitive applications 
 - ✍️ I write articles on network defence and automation.
-- Active since 2020 — never stepped away from the field
+- Active since 2006 — never stepped away from the field
 - Recognised as both a learner and teacher
 - Passionate about knowledge sharing, automation, and resilient architecture
   

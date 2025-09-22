@@ -101,6 +101,57 @@ Path      : C:\Program Files\Mozilla Firefox\firefox.exe
 CPU       : 103.6875
 StartTime : 21/09/2023 19:00:51
 
+live DNS traffic captured by tshark on a live endpoint.
+ tshark -i 6 -f "udp port 53" -Y "dns"
+  1   0.000000 172.20.10.41 → 8.8.8.8  DNS 90 Standard query 0x2094 A self.events.data.microsoft.com
+    2   0.027596 8.8.8.8 → 172.20.10.41 1 DNS 213 Standard query response 0x2094 A self.events.data.microsoft.com CNAME self-events-data.trafficmanager.net CNAME onedscolprdneu04.northeurope.cloudapp.azure.com A 20.50.73.10    [ a none production test machine to simulate production environment]
+
+what about bbc.
+
+ tshark -i 6 -Y "dns.qry.name contains bbc.co.uk"
+Capturing on 'WiFi'
+ 1670  49.724700 172.20.10.41 → 208.67.222.222 DNS 69 Standard query 0xe04f A bbc.co.uk
+ 1671  49.745723 8.8.8.8 → 172.20.10.41 DNS 133 Standard query response 0xe04f A bbc.co.uk A 151.101.64.81 A 151.101.128.81 A 151.101.192.81 A 151.101.0.81
+The DNS server replies with a DNS response:
+We see  several IP addresses for bbc.co.uk (there are multiple IPs for load balancing right as shown below
+
+= 151.101.64.81
+- 151.101.128.81
+- 151.101.192.81
+- 151.101.0.8
+
+We applied the same method used for the BBC to Google and captured the results using:
+tshark -i 6 -Y "dns.qry.name contains google.com"
+
+IPv6 (AAAA) addresses for www.google.com
+:
+2a00:1450:4009:c15::63
+2a00:1450:4009:c15::67
+2a00:1450:4009:c15::6a
+2a00:1450:4009:c15::93
+IPv4 (A) addresses for google.com:
+
+142.250.129.101
+142.250.129.102
+142.250.129.113
+142.250.129.138
+142.250.129.139
+142.250.129.10
+
+Capture Traffic for a Single IP Address Using TShark
+> tshark -i 6 -f "host 142.250.129.101"
+
+    1   0.000000 172.20.10.41 → 142.250.129.101 TCP 66 9485 → 80 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM (Client → Server: SYN to port 80 (start connection))
+    2   0.000288 172.20.10.41 → 142.250.129.101 TCP 66 9486 → 80 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM (Client → Server: SYN to port 80 (another attempt/similar)
+    3   0.003591 172.20.10.41 → 142.250.129.101 TCP 66 9487 → 443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM (Client → Server: SYN to port 443 (HTTPS connection start)
+    4   0.021059 142.250.129.101 → 172.20.10.41 TCP 66 80 → 9485 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1412 SACK_PERM WS=256  (Server → Client: SYN, ACK acknowledging connection)
+    5   0.021262 172.20.10.41 → 142.250.129.101 TCP 54 9485 → 80 [ACK] Seq=1 Ack=1 Win=66304 Len=0  Client → Server: ACK (connection established)
+
+Tips: 
+
+The TCP connection was successfully established (you saw the 3-way handshake complete).
+But no actual data was transferred yet, as indicated by **Len=0** in all packets shown.
+
 **Volatility Example**
 
 volatility -f memory.dmp --profile=Win10x64 pslist

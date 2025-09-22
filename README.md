@@ -1,8 +1,8 @@
 
 🧑‍🏫 About Me
-I'm a **Network | Cloud & CyberSecyrity Technologist** with a passion for building resilient, secure systems and teaching what I learn.
+I'm a **Network | Cloud & CyberSecyrity | Consultant |Technologist** with a passion for building resilient, secure systems and teaching what I learn.
 
-- 🛠️ Skills & Mindset:
+ 🛠️ Skills & Mindset:
 Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds). Defensive Security & Cloud-First Security Architectures.
 Access and Identity Management (IAM) – including  (RBAC), SSO, and MFA across hybrid and cloud environments.
 Zero Trust Architecture, SASE, and Network Access Control.

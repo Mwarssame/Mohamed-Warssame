@@ -1,6 +1,6 @@
 
 🧑‍🏫 About Me
-I'm a **Network & Security Technologist** with a passion for building resilient, secure systems and teaching what I learn.
+I'm a **Network | Cloud & CyberSecyrity Technologist** with a passion for building resilient, secure systems and teaching what I learn.
 
 - 🛠️ Skills & Mindset:
 Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds). Defensive Security & Cloud-First Security Architectures

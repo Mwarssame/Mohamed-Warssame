@@ -15,6 +15,17 @@ I strive to learn what I do not know, and practice what I know — continuously 
 - Active since 2020 — never stepped away from the field
 - Recognised as both a learner and teacher
 - Passionate about knowledge sharing, automation, and resilient architecture
+  
+🚀 Key Projects & Achievements (2022–2024)
+
+- Mitigated Log4j vulnerability across production environments
+- Upgraded 54 Next-Generation Firewalls to strengthen perimeter security
+- Designed and tuned SOAR & XSIAM platforms for automated detection and response
+- Built incident response playbooks and integrated threat intelligence with live systems
+- Streamlined SIEM and SOC workflows for faster triage and resolution
+- Deployed SolarWinds for enterprise-grade cloud monitoring
+- Refreshed Cisco LAN infrastructure by deploying Cisco DNA Center and Cisco SD-Access, replacing legacy switching for cloud readiness, automation, and - network segmentation and moved 120 sites to cloud environment.
+- Migrated 120 sites to a cloud environment, enabling scalable, secure, and modernized operations
 
 📫....---
 

@@ -214,6 +214,9 @@ show ip bgp neighbors | include update
 
 Useful CLI commands on Cisco switches integrated with Cisco ISE to diagnose and monitor 802.1X authentication issues.
 
+<h1 style="font-family: Arial, sans-serif;">🔐 Cisco 802.1X + ISE Troubleshooting Commands (with | Pipes)</h1>
+<p style="font-family: Arial, sans-serif;">Useful CLI commands...</p>
+
 
 ## 1. Show all active authentication sessions  
 `show authentication sessions | include Gi|Dot1x`

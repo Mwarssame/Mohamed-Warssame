@@ -209,3 +209,72 @@ show ip bgp neighbors | include Idle|Active|Estab
 show ip bgp neighbors | include update
 *Check BGP neighbors’ update counts.*
 
+
+# 🔐 Cisco 802.1X + ISE Troubleshooting Commands (with `|` Pipes)
+
+Useful CLI commands on Cisco switches integrated with Cisco ISE to diagnose and monitor 802.1X authentication issues.
+
+
+## 1. Show all active authentication sessions  
+`show authentication sessions | include Gi|Dot1x`
+
+View all authenticated interfaces and methods (802.1X, MAB).
+
+
+## 2. Detailed session info for a specific port  
+`show authentication sessions interface Gi1/0/5 | include Authc|VLAN|Status`
+
+Check authentication method, VLAN assignment, and status on a port.
+
+
+## 3. Check ISE dynamic VLAN assignment  
+`show authentication sessions interface Gi1/0/5 | include VLAN`
+
+Verify if ISE dynamically assigned a VLAN after authentication.
+
+
+## 4. Check method used (MAB vs Dot1X)  
+`show authentication sessions interface Gi1/0/5 | include Method`
+
+Ensure correct authentication method was applied.
+
+
+## 5. Filter logs for ISE/RADIUS-related events  
+`show logging | include RADIUS|DOT1X|ISE`
+
+Quickly spot issues related to 802.1X and ISE in the log buffer.
+
+
+## 6. Check interface state and port control config  
+`show run interface Gi1/0/5 | include auth|mab|switchport`
+
+Audit interface for correct dot1x, MAB, and switchport config.
+
+
+## 7. See MAC address learned on interface  
+`show mac address-table interface Gi1/0/5 | include DYNAMIC`
+
+Confirm whether the endpoint's MAC address was learned post-auth.
+
+
+## 8. Display radius-server configuration  
+`show run | section radius-server`
+
+Ensure correct ISE IP address, key, and config are applied.
+
+
+## 9. Check session authorization results  
+`show authentication sessions interface Gi1/0/5 details | include Server`
+
+See what result the RADIUS server (ISE) returned to the switch.
+
+
+## 10. View authentication failures in logs  
+`show logging | include FAIL|REJECT`
+
+Identify failed authentications for fast troubleshooting.
+
+
+## Bonus Tips but Warning!!
+
+- Use `debug dot1x all`but DO NOT run during ther busy business hours  on production devices.

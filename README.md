@@ -185,4 +185,27 @@ volatility -f memory.dmp --profile=Win10x64 malfind
 volatility -f memory.dmp --profile=Win10x64 netscan
 volatility -f memory.dmp --profile=Win10x64 netscan
 
+**BGP Troubleshooting Command Reference** – CLI tools for verifying BGP behavior when rolling out new projects or making changes in existing network environments.**
+
+
+*Show detailed info for a specific BGP neighbor.*
+show ip bgp neighbors <neighbor-IP> advertised-routes | include <prefix>
+*Show routes advertised to a neighbor filtered by prefix.*
+show ip bgp neighbors <neighbor-IP> received-routes | include <prefix>
+
+*Show routes received from a neighbor filtered by prefix.*
+show ip bgp neighbors <neighbor-IP> advertised-routes | include *>
+*Show advertised active BGP paths to a neighbor.*
+show ip bgp <prefix> | include AS_PATH|Next Hop
+
+*Display BGP path attributes for a prefix.*
+show ip prefix-list | include <prefix or permit|deny>
+*Filter BGP prefix-lists by prefix or action.*
+show route-map | section <route-map-name>
+
+*Show route-map entries relevant to BGP policies.*
+show ip bgp neighbors | include Idle|Active|Estab
+*Filter BGP neighbor session states.*
+show ip bgp neighbors | include update
+*Check BGP neighbors’ update counts.*
 

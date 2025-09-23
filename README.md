@@ -7,7 +7,8 @@ Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds). Defensive S
 Access and Identity Management (IAM) – including  (RBAC), SSO, and MFA across hybrid and cloud environments.
 Zero Trust Architecture, SASE, and Network Access Control.
 Next-Generation Firewalls (NGFWs) and  Application-aware identity-based access control.
-Routing & Switching, including OSPF, BGP and MPLS.
+Routing & Switching, including OSPF, BGP and MPLS.**- Knowing the Network is Knowing What We Need to Secure**
+
 Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation.
 Automate Configuration Deployment with Ansible.
 TLS (Transport Layer Security) for secure communications.802.1X Network Access Control for port-based authentication.

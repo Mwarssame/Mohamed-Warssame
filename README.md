@@ -32,17 +32,18 @@ I strive to learn what I do not know, and practice what I know — continuously 
 - Recognised as both a learner and teacher
 - Passionate about knowledge sharing, automation, and resilient architecture
   
-🚀 Key Projects & Achievements (2022–2024)
+🚀 **Key Projects & Achievements (2022–2024)**
 
-- Mitigated Log4j vulnerability across production environments.
-- Upgraded 54 Next-Generation Firewalls to strengthen perimeter security
-- Designed and tuned SOAR & XSIAM platforms for automated detection and response
-- Built incident response playbooks and integrated threat intelligence with live systems.
-- Streamlined SIEM and SOC workflows for faster triage and resolution.
-- Deployed SolarWinds for enterprise-grade cloud monitoring.
-- Refreshed Cisco LAN infrastructure by deploying Cisco DNA Centre and Cisco SD-Access, replacing legacy switching for cloud readiness, automation, and  network segmentation.
-- Moved and migrated 120 sites to AWS cloud  and Azure environment, enabling scalable, secure, and modernised operations.
-- Memory Forensics & Vulnerability Management.
+- **Mitigated Log4j vulnerability across production environments.**
+- **Upgraded 54 Next-Generation Firewalls to strengthen perimeter security.**
+- **Designed and tuned SOAR & XSIAM platforms for automated detection and response.**
+-**Built incident response playbooks and integrated threat intelligence with live systems.**
+- **Streamlined SIEM and SOC workflows for faster triage and resolution.**
+- **Deployed SolarWinds for enterprise-grade cloud monitoring.**
+- **Refreshed Cisco LAN infrastructure by deploying Cisco DNA Centre and Cisco SD-Access, replacing legacy switching for cloud readiness, automation, and  network segmentation.**
+-**Deployed Meraki MS switches, MR access points, and MX security appliances across seven office locations.**.
+- **Moved and migrated 120 sites to AWS cloud  and Azure environment, enabling scalable, secure, and modernised operations.**
+- **Memory Forensics & Vulnerability Management.**
 
 📫....---
 

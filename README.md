@@ -32,7 +32,7 @@ I strive to learn what I do not know, and practice what I know — continuously 
 - Recognised as both a learner and teacher
 - Passionate about knowledge sharing, automation, and resilient architecture
   
-🚀 **Key Projects & Achievements (2022–2024)**
+🚀 **Key Projects & Achievements (2021–2024)**
 
 - **Mitigated Log4j vulnerability across production environments.**
 - **Upgraded 54 Next-Generation Firewalls to strengthen perimeter security.**

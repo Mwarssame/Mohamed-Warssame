@@ -185,7 +185,7 @@ volatility -f memory.dmp --profile=Win10x64 malfind
 volatility -f memory.dmp --profile=Win10x64 netscan
 volatility -f memory.dmp --profile=Win10x64 netscan
 
-**BGP Troubleshooting Command Reference** – CLI tools for verifying BGP behavior when rolling out new projects or making changes in existing network environments.**
+**BGP Troubleshooting Command Reference – CLI tools for verifying BGP behavior when rolling out new projects or making changes in existing network environments.**
 
 
 *Show detailed info for a specific BGP neighbor.*

@@ -1,13 +1,13 @@
 
 🧑‍🏫 About Me
-I'm a **Network | Cloud & CyberSecyrity | Consultant |Technologist** with a passion for building resilient, secure systems and teaching what I learn.
+I'm a **Network | Cloud & Cybersecurity | Consultant |Technologist** with a passion for building resilient, secure systems and teaching what I learn.
 
  🛠️ Skills & Mindset:
 Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds). Defensive Security & Cloud-First Security Architectures.
 Access and Identity Management (IAM) – including  (RBAC), SSO, and MFA across hybrid and cloud environments.
 Zero Trust Architecture, SASE, and Network Access Control.
 Next-Generation Firewalls (NGFWs) and  Application-aware identity-based access control.
-Routing & Switching, including OSPF, BGP and MPLS.**- Knowing the Network is Knowing What We Need to Secure -wecan’t protect what we don’t understand.**
+Routing & Switching, including OSPF, BGP and MPLS.**- Knowing the Network is Knowing What We Need to Secure -we can’t protect what we don’t understand.**
 **"Don’t ask what an asset is — ask how to protect it.**
 **Don’t ask what a risk is — ask how to prevent it.**
 **Don’t ask what a threat is — ask how to stop it.** "Memorising the names doesn’t protect infrastructures — taking action does".
@@ -15,7 +15,7 @@ Routing & Switching, including OSPF, BGP and MPLS.**- Knowing the Network is Kno
 Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation.
 Automate Configuration Deployment with Ansible.
 TLS (Transport Layer Security) for secure communications.802.1X Network Access Control for port-based authentication.
-Data Protection in the Modern Era: GDPR, NIST Guidelines, and Best Practices.Including Data classification and inventory management
+Data Protection in the Modern Era: GDPR, NIST Guidelines, and Best Practices. Including Data classification and inventory management
 - Encryption, access controls, and data minimization strategies
 - Incident response and breach notification processes
 - Employee training and awareness programs
@@ -38,8 +38,8 @@ I strive to learn what I do not know, and practice what I know — continuously 
 - Built incident response playbooks and integrated threat intelligence with live systems.
 - Streamlined SIEM and SOC workflows for faster triage and resolution.
 - Deployed SolarWinds for enterprise-grade cloud monitoring.
-- Refreshed Cisco LAN infrastructure by deploying Cisco DNA Center and Cisco SD-Access, replacing legacy switching for cloud readiness, automation, and  network segmentation.
-- Moved and migrated 120 sites to AWS cloud  and Azureenvironment, enabling scalable, secure, and modernised operations.
+- Refreshed Cisco LAN infrastructure by deploying Cisco DNA Centre and Cisco SD-Access, replacing legacy switching for cloud readiness, automation, and  network segmentation.
+- Moved and migrated 120 sites to AWS cloud  and Azure environment, enabling scalable, secure, and modernised operations.
 - Memory Forensics & Vulnerability Management.
 
 📫....---
@@ -51,7 +51,7 @@ Stay tuned for in-depth guides, real-world use cases, and hands-on tools.
 
 # 🧠 Memory Forensics & Vulnerability Management Toolkit
 
-This project is a curated quick-reference guide and hands-on toolkit that integrates **memory forensics** with core **vulnerability management** practices. It’s designed for security professionals, incident responders, and learners seeking to bridge practical forensics with risk reduction strategies.  The project that was successfuly completed 
+This project is a curated quick-reference guide and hands-on toolkit that integrates **memory forensics** with core **vulnerability management** practices. It’s designed for security professionals, incident responders, and learners seeking to bridge practical forensics with risk reduction strategies.  The project that was successfully completed 
 
 ---
 
@@ -62,13 +62,13 @@ Integrated forensics into a structured vulnerability management workflow:
 
 Asset Discovery –  we started  with Inventory  hardware, software, and ended with  network assets listing.
 
-Vulnerability Scanning –  we Identifeied  and classified  vulnerabilities into catergories
+Vulnerability Scanning –  we Identified and classified  vulnerabilities into categories.
 
-Vulnerability Analysis & Ranking – We Prioritiseed based on severity and business impact.
+Vulnerability Analysis & Ranking – We Prioritised based on severity and business impact.
 
 Remediation Planning – Applied patches and recommended  mitigations.
 
-Patch Testing & Deployment – Verified and  patched instances in pre-production environment and  appled stable versions to productions
+Patch Testing & Deployment – Verified and  patched instances in pre-production environment and  applied stable versions to productions
 
 Verification & Monitoring – Continuous scanning and tracking over time.
 
@@ -93,11 +93,11 @@ Examples:
 - **Belkasoft RAM Capturer**, **DumpIt**, **Memdump** – Lightweight tools for field memory acquisition.
 
 ### 🧪 PowerShell & CLI Integration
-```powershell
+```Powershell
 # Top memory-consuming processes
 Get-Process | Sort-Object -Property WorkingSet -Descending | Select-Object -First 10 Name, Id, CPU, WorkingSet
 
-examplea only!
+example only!
 
 Name                Id         CPU WorkingSet
 ----                --         --- ----------
@@ -132,7 +132,7 @@ live DNS traffic captured by tshark on a live endpoint.
   1   0.000000 172.20.10.41 → 8.8.8.8  DNS 90 Standard query 0x2094 A self.events.data.microsoft.com
     2   0.027596 8.8.8.8 → 172.20.10.41 1 DNS 213 Standard query response 0x2094 A self.events.data.microsoft.com CNAME self-events-data.trafficmanager.net CNAME onedscolprdneu04.northeurope.cloudapp.azure.com A 20.50.73.10    [ a none production test machine to simulate production environment]
 
-what about bbc.
+what about BBC.
 
  tshark -i 6 -Y "dns.qry.name contains bbc.co.uk"
 Capturing on 'WiFi'
@@ -185,7 +185,7 @@ volatility -f memory.dmp --profile=Win10x64 malfind
 volatility -f memory.dmp --profile=Win10x64 netscan
 volatility -f memory.dmp --profile=Win10x64 netscan
 
-**BGP Troubleshooting Command Reference – CLI tools for verifying BGP behavior when rolling out new projects or making changes in existing network environments.**
+**BGP Troubleshooting Command Reference – CLI tools for verifying BGP behaviour when rolling out new projects or making changes in existing network environments.**
 
 
 *Show detailed info for a specific BGP neighbor.*

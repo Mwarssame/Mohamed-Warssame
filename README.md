@@ -214,7 +214,7 @@ show ip bgp neighbors | include update
 
 **Useful CLI commands on Cisco switches integrated with Cisco ISE to diagnose and monitor 802.1X authentication issues.**
 
-
+# 🧠 Memory Forensics & Vulnerability Management Toolkit
 
 
 ## 1. Show all active authentication sessions  

@@ -210,12 +210,11 @@ show ip bgp neighbors | include update
 *Check BGP neighbors’ update counts.*
 
 
-# 🔐 Cisco 802.1X + ISE Troubleshooting Commands (with `|` Pipes)
+# 🔐 **Cisco 802.1X + ISE Troubleshooting Commands (with `|` Pipes)**
 
-Useful CLI commands on Cisco switches integrated with Cisco ISE to diagnose and monitor 802.1X authentication issues.
+**Useful CLI commands on Cisco switches integrated with Cisco ISE to diagnose and monitor 802.1X authentication issues.**
 
-<h1 style="font-family: Arial, sans-serif;">🔐 Cisco 802.1X + ISE Troubleshooting Commands (with | Pipes)</h1>
-<p style="font-family: Arial, sans-serif;">Useful CLI commands...</p>
+
 
 
 ## 1. Show all active authentication sessions  

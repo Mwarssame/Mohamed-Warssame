@@ -18,7 +18,7 @@ Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation.
 Automate Configuration Deployment with Ansible.
 TLS (Transport Layer Security) for secure communications.802.1X Network Access Control for port-based authentication.
 Data Protection in the Modern Era: GDPR, NIST Guidelines, and Best Practices. Including Data classification and inventory management
-- Encryption, access controls, and data minimization strategies
+- Encryption, access controls-  data minimisation  and Data Anonymisation Strategiess. 
 - Incident response and breach notification processes
 - Employee training and awareness programs
 

@@ -1,5 +1,9 @@
 
-🧑‍🏫 About Me : Mohamed Warssame ( Hackney)
+🧑‍🏫 About Me : Mohamed Warssame ( Hackney).
+
+Since 2001, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission, and now I anm excited to share that knowledge with you through expert teaching and training.
+
+Where am I after 25 years?
 
 I am a **Network | Cloud & Cybersecurity | Consultant |Technologist** with a passion for building resilient, secure systems and teaching what I learn.
 

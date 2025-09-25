@@ -1,5 +1,5 @@
 
-🧑‍🏫 About Me : Mohamed Warssame ( Hackney).
+🧑‍🏫 About Me : Mohamed Warssame ( Hackney). Read Me on https://fadilatechno.com/courses/
 
 Since 2001, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission, and now I anm excited to share that knowledge with you through expert teaching and training.
 

@@ -227,7 +227,7 @@ A curated guide and toolkit to blend **memory forensics** with **vulnerability m
  **PowerShell & CLI Integration:** Coming soon...
 
 
-# Top memory-consuming processes
+ Top memory-consuming processes
 Get-Process | Sort-Object -Property WorkingSet -Descending | Select-Object -First 10 Name, Id, CPU, WorkingSet
 
 example only!
@@ -249,7 +249,7 @@ chrome           13848   303.90625  151748608
 
 Get-Process -Id 7204 | Select-Object Path
 
-Path
+
 ----
 C:\Program Files\Mozilla Firefox\firefox.exe
 

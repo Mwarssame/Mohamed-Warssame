@@ -4,6 +4,55 @@
 
 
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Pentesting Lesson](#pentesting-lesson)
+- [Skills & Mindset](#skills--mindset)
+- [Security on Paper](#security-on-paper)
+  - [Asset](#asset)
+  - [Threat](#threat)
+  - [Vulnerability](#vulnerability)
+  - [Risk](#risk)
+  - [Risk Formula](#risk-formula)
+
+---
+
+## Introduction
+
+This is where I talk about my journey since 2001...
+
+## Pentesting Lesson
+
+The story about the tool that missed a live server...
+
+## Skills & Mindset
+
+Cybersecurity Fundamentals, IAM, NGFWs...
+
+## Security on Paper
+
+Based on CISSP Domain 1 principles...
+
+### Asset
+
+Anything valuable to the business...
+
+### Threat
+
+Anything that can cause damage...
+
+### Vulnerability
+
+A weakness that allows threats to succeed...
+
+### Risk
+
+The potential loss if a threat exploits a vulnerability...
+
+### Risk Formula
+
+Risk = Threat × Vulnerability × Impact
 
 
 

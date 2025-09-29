@@ -9,8 +9,8 @@
 
 
 ## Table of Contents
+[Introduction](#introduction)
 
-- [Introduction](#introduction)
   🧑‍🏫 About Me : Mohamed Warssame ( Hackney). Free Courses available at ://fadilatechno.com/courses/ 
 
 Since 2001, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission, and now I am excited to share that knowledge with you through expert teaching and training.

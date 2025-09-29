@@ -50,6 +50,29 @@ I strive to learn what I do not know, and practice what I know — continuously 
 - **Memory Forensics & Vulnerability Management.**
 - **Prepared High-Level Design (HLD) and High-Level Planning (HLP) documentation, as well as knowledge articles..**
 
+🎯 Looking Ahead: 2025 and Beyond
+
+The next decade belongs to resilient, intelligent systems — and those who know how to build and secure them.
+
+My current and future focus includes:
+
+Cloud Security – with deep expertise in GCP
+
+Encryption & IAM – policy-driven, compliant, and automated
+
+Infrastructure-as-Code – Terraform-first architectures with security guardrails
+
+SOAR/XDR Engineering – reducing dwell time with automated response
+
+Defence & Public Sector Security – aligned with NCSC and MOD assurance standards
+
+- next Level and 2025 and beyond 
+- Cloud security (GCP focus)
+- Compliance, encryption, and IAM
+- Infrastructure as code (IaC)
+- Automation and response (SOAR)
+- Defence / cyber-readiness alignment
+
 📫....---
 
 📫 **Full Network and Cybersecurity Forensics toolkit coming soon..**  

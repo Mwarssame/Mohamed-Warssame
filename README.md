@@ -49,7 +49,7 @@ Examples: unpatched systems, weak passwords, lack of MFA and poor security pract
 -  Heavy-theory  environments – lots of documentation, but no real protection
 - Security theater – compliance over actual security
 - Politics over protection – decisions made to avoid blame or look good on paper, not to reduce risk
-- Resistance to change – delay to upgrade, patch, or modernise systems and wait weeks for approval
+- Resistance to change – delay to upgrade, patch, or modernise systems and often wait weeks for approval
 - Lack of leadership support – security seen as a cost, not a strategic priority
 
 💰 Risk

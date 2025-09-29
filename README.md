@@ -50,6 +50,7 @@ Examples: unpatched systems, weak passwords, lack of MFA and poor security pract
 - Politics over protection – decisions made to avoid blame or look good on paper, not to reduce risk
 - Resistance to change – delay to upgrade, patch, or modernise systems and wait weeks for approval
 - Lack of leadership support – security seen as a cost, not a strategic priority
+
 💰 Risk
 - The potential loss (financial or otherwise) if a threat exploits a vulnerability and impacts an asset.
 

@@ -49,6 +49,7 @@ I strive to learn what I do not know, and practice what I know — continuously 
 🚀 **Key Projects & Achievements (2021–2024)**
 
 - **Mitigated Log4j vulnerability across production environments.**
+- **Deployed GCP key rotation, IAM-based access control, audit logging, and integrated both Customer-Managed Encryption Keys (CMEK) and External Key Management (EKM) for enhanced data protection.**
 - **Upgraded 54 Next-Generation Firewalls to strengthen perimeter security.**
 - **Designed and tuned SOAR & XSIAM platforms for automated detection and response.**
 -**Built incident response playbooks and integrated threat intelligence with live systems.**

@@ -168,7 +168,7 @@ Lowering any one factor reduces risk.
 ---
 
 ## Looking Ahead: 2025 and Beyond
-
+As technology and threats evolve, so does my focus. In the years ahead, my work will center around building secure, scalable, and intelligent systems — with a deep emphasis on both **defensive and offensive capabilities**, often validated through hands-on **home lab environments**.
 **Focus Areas:**
 
 - Cloud Security (GCP-specialised)  

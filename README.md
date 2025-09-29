@@ -343,7 +343,7 @@ show ip bgp neighbors | include update
 *Check BGP neighbors’ update counts.*
 
 
-# 🔐 **Cisco 802.1X + ISE Troubleshooting Commands (with `|` Pipes)**
+## **Cisco 802.1X + ISE Troubleshooting Commands (with `|` Pipes)**
 
 **Useful CLI commands on Cisco switches integrated with Cisco ISE to diagnose and monitor 802.1X authentication issues.**
 

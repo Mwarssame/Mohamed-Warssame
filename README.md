@@ -28,7 +28,7 @@ Routing & Switching, including OSPF, BGP and MPLS.**- Knowing the Network is Kno
 **Don’t ask what a risk is — ask how to prevent it.**
 **Don’t ask what a threat is — ask how to stop it.** "Memorising the names doesn’t protect infrastructures — taking action does".
 
-🔐 Security on Paper  - Domain 1: Security and Risk Management ( CISSP) -Asset, Thtreat and Risk
+🔐 Security on Paper  - Domain 1: Security and Risk Management ( CISSP) -Asset, Threat and Risk
 
 ✅ Asset
 

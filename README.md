@@ -61,12 +61,7 @@ The next decade belongs to resilient, intelligent systems — and those who know
 - SOAR/XDR Engineering – reducing dwell time with automated response
 - Security Governance & Compliance – supporting enterprise security alignment with ISO 27001, NIST, GDPR, and NCSC.
 
-- next Level and 2025 and beyond 
-- Cloud security (GCP focus)
-- Compliance, encryption, and IAM
-- Infrastructure as code (IaC)
-- Automation and response (SOAR)
-- Defence / cyber-readiness alignment
+
 
 📫....---
 

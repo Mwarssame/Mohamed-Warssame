@@ -15,7 +15,7 @@
 
 Since 2001, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission, and now I am excited to share that knowledge with you through expert teaching and training.
 
- [The Pentesting Lesson](#the-pentesting-lesson)
+ ##[The Pentesting Lesson](#the-pentesting-lesson)
 - I saw a pentester relying on a tool and reporting that a server in a /25 subnet was offline.
 In reality, the server was live and reachable on the network — the tool just couldn’t see it.
 My heart nearly boiled — it felt like I’d taken the wrong medicine!

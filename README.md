@@ -144,11 +144,11 @@ Lowering any one factor reduces risk.
 - GCP, AWS, Azure  
 - Cisco, Meraki, F5, Juniper, Palo Alto  
 - Wireshark, Linux  
-- Terraform, Ansible  
+- Terraform, Ansible and more  
 
 ---
 
-## 🚀 Key Projects & Achievements (2021–2024)
+# 🚀 Key Projects & Achievements (2021–2024)
 
 - Mitigated **Log4j** vulnerability across prod environments  
 - Deployed GCP key rotation, IAM access control, CMEK, EKM  

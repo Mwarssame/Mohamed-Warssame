@@ -193,7 +193,7 @@ A curated guide and toolkit to blend **memory forensics** with **vulnerability m
 
 ---
 
-### 🛡️ Vulnerability Management Framework
+## 🛡️ Vulnerability Management Framework
 
 **Phases:**
 
@@ -210,7 +210,7 @@ A curated guide and toolkit to blend **memory forensics** with **vulnerability m
 
 ---
 
-### 🔍 Memory Forensics Highlights
+## 🔍 Memory Forensics Highlights
 
 **Tools Used:**
 

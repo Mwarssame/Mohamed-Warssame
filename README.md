@@ -82,7 +82,7 @@ I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a pa
 ## ✅ Asset
 
 Anything valuable to the business that must be protected.  
-Examples: Servers, laptops, databases, IP, brand trust, public perception, employees, compliance status.
+Examples: Servers, laptops, databases, IPs, brand trust, public perception, employees, Business secret and compliance status.
 
 ## ⚠️ Threat
 

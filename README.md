@@ -54,17 +54,12 @@ I strive to learn what I do not know, and practice what I know — continuously 
 
 The next decade belongs to resilient, intelligent systems — and those who know how to build and secure them.
 
-My current and future focus includes:
-
-Cloud Security – with deep expertise in GCP
-
-Encryption & IAM – policy-driven, compliant, and automated
-
-Infrastructure-as-Code – Terraform-first architectures with security guardrails
-
-SOAR/XDR Engineering – reducing dwell time with automated response
-
-Defence & Public Sector Security – aligned with NCSC and MOD assurance standards
+- My current and future focus includes:
+- Cloud Security – with deep expertise in GCP
+- Encryption & IAM – policy-driven, compliant, and automated
+- Infrastructure-as-Code – Terraform-first architectures with security guardrails
+- SOAR/XDR Engineering – reducing dwell time with automated response
+- Security Governance & Compliance – supporting enterprise security alignment with ISO 27001, NIST, GDPR, and NCSC.
 
 - next Level and 2025 and beyond 
 - Cloud security (GCP focus)

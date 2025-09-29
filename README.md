@@ -165,7 +165,7 @@ Lowering any one factor reduces risk.
 
 ---
 
-🎯 ## Looking Ahead: 2025 and Beyond
+## Looking Ahead: 2025 and Beyond 🎯 
 
 **Focus Areas:**
 

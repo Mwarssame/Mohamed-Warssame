@@ -59,7 +59,7 @@ I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a pa
 
 ---
 
-##🛠️ Skills & Mindset
+###🛠️ Skills & Mindset
 
 - Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds)  
 - Defensive Security & Cloud-First Security Architectures  

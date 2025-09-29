@@ -148,7 +148,7 @@ Lowering any one factor reduces risk.
 
 ---
 
-# 🚀 Key Projects & Achievements (2021–2024)
+#  Key Projects & Achievements (2021–2024)
 
 - Mitigated **Log4j** vulnerability across prod environments  
 - Deployed GCP key rotation, IAM access control, CMEK, EKM  

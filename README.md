@@ -130,7 +130,7 @@ Lowering any one factor reduces risk.
 
 ---
 
-## 📚 Lifelong Learning
+##  Lifelong Learning
 
 - Active in tech communities since 2006  
 - Writing articles on network defense & automation  
@@ -185,7 +185,7 @@ Stay tuned for:
 
 ---
 
-## 🧪 Memory Forensics & Vulnerability Toolkit
+##  Memory Forensics & Vulnerability Toolkit
 
 A curated guide and toolkit to blend **memory forensics** with **vulnerability management**.
 

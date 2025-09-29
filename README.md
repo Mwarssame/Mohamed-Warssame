@@ -58,7 +58,7 @@ I strive to learn what I do not know, and practice what I know — continuously 
 - **Deployed Meraki MS switches, MR access points, and MX security appliances across seven office locations.**.
 - **Moved and migrated 120 sites to AWS cloud  and Azure environment, enabling scalable, secure, and modernised operations.**
 - **Memory Forensics & Vulnerability Management.**
-- **Prepared High-Level Design (HLD) and High-Level Planning (HLP) documentation, as well as knowledge articles..**
+- **Prepared High-Level Design (HLD) and High-Level Design (HLD) documentation, as well as knowledge articles..**
 
 🎯 Looking Ahead: 2025 and Beyond
 

@@ -171,11 +171,14 @@ Lowering any one factor reduces risk.
 As technology and threats evolve, so does my focus. In the years ahead, my work will center around building secure, scalable, and intelligent systems — with a deep emphasis on both **defensive and offensive capabilities**, often validated through hands-on **home lab environments**.
 **Focus Areas:**
 
-- Cloud Security (GCP-specialised)  
-- Encryption & IAM (policy-driven and automated)  
-- Terraform-first infrastructure with guardrails  
-- SOAR/XDR Engineering for automated threat response  
-- Governance & Compliance (ISO 27001, NIST, GDPR, NCSC)  
+- Cloud Security (GCP-specialised).  
+- Encryption & IAM (policy-driven and automated).  
+- Terraform-first infrastructure with guardrails.  
+- SOAR/XDR Engineering for automated threat response.  
+- Governance & Compliance (ISO 27001, NIST, GDPR, NCSC).
+-🤝 **Home Lab Testing** – a safe space to break and build without risk — staying ahead of threats and out of real-world danger
+
+
 
 ---
 

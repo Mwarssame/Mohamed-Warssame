@@ -148,7 +148,7 @@ Lowering any one factor reduces risk.
 
 ---
 
-#  Key Projects & Achievements (2021–2024)
+##  Key Projects & Achievements (2021–2024)
 
 - Mitigated **Log4j** vulnerability across prod environments  
 - Deployed GCP key rotation, IAM access control, CMEK, EKM  
@@ -177,7 +177,7 @@ Lowering any one factor reduces risk.
 
 ---
 
-📫 **Full Network and Cybersecurity Forensics toolkit coming soon**  
+## **Full Network and Cybersecurity Forensics toolkit coming soon**  
 Stay tuned for:
 - In-depth guides  
 - Real-world use cases  
@@ -210,7 +210,7 @@ A curated guide and toolkit to blend **memory forensics** with **vulnerability m
 
 ---
 
-## 🔍 Memory Forensics Highlights
+##  Memory Forensics Highlights
 
 **Tools Used:**
 
@@ -224,7 +224,7 @@ A curated guide and toolkit to blend **memory forensics** with **vulnerability m
 
 ---
 
-🧪 **PowerShell & CLI Integration:** Coming soon...
+ **PowerShell & CLI Integration:** Coming soon...
 
 
 # Top memory-consuming processes

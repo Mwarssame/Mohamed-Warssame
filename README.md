@@ -38,7 +38,7 @@ Since 2001, I have been working in front of the same screen — but the light ch
 
 ---
 
-## The Pentesting Lesson
+# The Pentesting Lesson
 
 I saw a pentester relying on a tool and reporting that a server in a /25 subnet was offline. In reality, the server was live and reachable on the network — the tool just couldn’t see it. My heart nearly boiled — it felt like I’d taken the wrong medicine!
 

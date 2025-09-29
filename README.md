@@ -28,6 +28,37 @@ Routing & Switching, including OSPF, BGP and MPLS.**- Knowing the Network is Kno
 **Don’t ask what a risk is — ask how to prevent it.**
 **Don’t ask what a threat is — ask how to stop it.** "Memorising the names doesn’t protect infrastructures — taking action does".
 
+🔐 Paper  - Domain 1: Security and Risk Management ( CISSP)
+✅ Asset
+
+Anything valuable to the business that must be protected.
+Examples: servers, Laptops, databases, intellectual property, Brand Trust,brand reputation, Puplic perception,  employees and compliance statusand  so on.
+
+⚠️ Threat
+
+Anything that can cause damage to an asset.
+Examples: hackers, malware, ransomware, malicious actors, Rogue nation-states-  governments engaging in cyber espionage or warfare  and general Cybercriminals.
+Zero-day exploits and Environmental / Non-Human Threats such as Fire and Floods.  
+Threat can exploit sleeping Vulnerability in OS and Codes.
+
+🧩 Vulnerability
+
+A weakness that allows a threat to succeed.
+Examples: unpatched systems, weak passwords, and poor security practices such as
+-  Heavy-theory environments – lots of documentation, but no real protection
+- Security theater – compliance over actual security
+- Politics over protection – decisions made to avoid blame or look good, not to reduce risk
+- Resistance to change – delay to upgrade, patch, or modernise systems and wait weeks for approval
+- Lack of leadership support – security seen as a cost, not a strategic priority
+
+💰 Risk Formula
+
+Risk = Threat × Vulnerability × Impact
+
+High risk = real threat + weak defenses + valuable asset
+
+Reducing any one factor lowers overall risk.
+
 Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation.
 Automate Configuration Deployment with Ansible.
 TLS (Transport Layer Security) for secure communications.802.1X Network Access Control for port-based authentication.

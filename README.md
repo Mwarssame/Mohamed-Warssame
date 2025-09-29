@@ -84,14 +84,14 @@ I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a pa
 Anything valuable to the business that must be protected.  
 Examples: Servers, laptops, databases, IPs, brand trust, public perception, employees, Business secret and compliance status.
 
-## ⚠️ Threat
+##  Threat
 
 Anything that can cause damage to an asset.  
 Examples: Hackers, malware, ransomware, nation-state actors, zero-days, fires, floods.
 
 > Threats exploit vulnerabilities in OS and code.
 
-## 🧩 Vulnerability
+##  Vulnerability
 
 A weakness that allows a threat to succeed.
 
@@ -103,11 +103,11 @@ Examples:
 - Delay to patch/modernise  
 - Lack of leadership support  
 
-## 💰 Risk
+##  Risk
 
 The potential loss (financial or otherwise) if a threat exploits a vulnerability and impacts an asset.
 
-## 💰 Risk Formula
+##  Risk Formula
 
 **Risk = Threat × Vulnerability × Impact**  
 High Risk = Real Threat + Weak Defenses + Valuable Asset  

@@ -15,7 +15,16 @@
 
 Since 2001, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission, and now I am excited to share that knowledge with you through expert teaching and training.
 
-- [The Pentesting Lesson](#the-pentesting-lesson)
+ [The Pentesting Lesson](#the-pentesting-lesson)
+- I saw a pentester relying on a tool and reporting that a server in a /25 subnet was offline.
+In reality, the server was live and reachable on the network — the tool just couldn’t see it.
+My heart nearly boiled — it felt like I’d taken the wrong medicine!
+
+I calmly said:
+“You’re not on the same subnet as the server. The server isn’t offline — you’re simply on a different network.”
+Lesson: Being inside a tool ≠ being on the network. Dude, you’re inside the tool — but not inside the network! 🤦‍♂️😂 Sometimes tools lie, but the network doesn’t! 😅🔌
+Know your routing. Know your scope. Tools don’t replace understanding
+
 - [Who I Am](#who-i-am)
 - [🛠️ Skills & Mindset](#️-skills--mindset)
 - [🔐 Security on Paper (CISSP Domain 1)](#-security-on-paper-cissp-domain-1)

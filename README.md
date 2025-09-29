@@ -139,7 +139,7 @@ Lowering any one factor reduces risk.
 
 ---
 
-## 🧰 Tools & Vendors
+## Tools & Vendors
 
 - GCP, AWS, Azure  
 - Cisco, Meraki, F5, Juniper, Palo Alto  

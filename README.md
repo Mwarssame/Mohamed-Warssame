@@ -1,4 +1,69 @@
 
+
+
+
+
+
+
+
+
+
+## Table of Contents
+
+- [Introduction](#introduction)
+  🧑‍🏫 About Me : Mohamed Warssame ( Hackney). Free Courses available at ://fadilatechno.com/courses/ 
+
+Since 2001, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission, and now I am excited to share that knowledge with you through expert teaching and training.
+
+- [The Pentesting Lesson](#the-pentesting-lesson)
+- [Who I Am](#who-i-am)
+- [🛠️ Skills & Mindset](#️-skills--mindset)
+- [🔐 Security on Paper (CISSP Domain 1)](#-security-on-paper-cissp-domain-1)
+  - [✅ Asset](#asset)
+  - [⚠️ Threat](#threat)
+  - [🧩 Vulnerability](#vulnerability)
+  - [💰 Risk](#risk)
+  - [💰 Risk Formula](#risk-formula)
+- [Infrastructure & Data Security](#infrastructure--data-security)
+- [🧰 Tools & Vendors](#-tools--vendors)
+- [🚀 Key Projects & Achievements (2021–2024)](#-key-projects--achievements-20212024)
+- [🎯 Looking Ahead: 2025 and Beyond](#-looking-ahead-2025-and-beyond)
+- [🧪 Memory Forensics & Vulnerability Toolkit](#-memory-forensics--vulnerability-toolkit)
+  - [🛡️ Vulnerability Management Framework](#️-vulnerability-management-framework)
+  - [🔍 Memory Forensics Highlights](#-memory-forensics-highlights)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🧑‍🏫 About Me : Mohamed Warssame ( Hackney). Free Courses available at ://fadilatechno.com/courses/ 
 
 Since 2001, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission, and now I am excited to share that knowledge with you through expert teaching and training.

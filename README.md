@@ -176,7 +176,7 @@ As technology and threats evolve, so does my focus. In the years ahead, my work 
 - Terraform-first infrastructure with guardrails.  
 - SOAR/XDR Engineering for automated threat response.  
 - Governance & Compliance (ISO 27001, NIST, GDPR, NCSC).
--**Home Lab Testing** – a safe space to break and build without risk — staying ahead of threats and out of real-world danger**
+- Home Lab Testing** – a safe space to break and build without risk — staying ahead of threats and out of real-world danger.
 
 
 

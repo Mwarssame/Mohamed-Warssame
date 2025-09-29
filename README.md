@@ -10,7 +10,7 @@ My heart nearly boiled — it felt like I’d taken the wrong medicine!
 I calmly said:
 “You’re not on the same subnet as the server. The server isn’t offline — you’re simply on a different network.”
 Lesson: Being inside a tool ≠ being on the network. Dude, you’re inside the tool — but not inside the network! 🤦‍♂️😂 Sometimes tools lie, but the network doesn’t! 😅🔌
-Know your routing. Know your scope. Tools don’t replace understandin
+Know your routing. Know your scope. Tools don’t replace understanding
 
 
 Where am I after 25 years?

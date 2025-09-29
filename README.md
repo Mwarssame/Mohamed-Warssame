@@ -44,20 +44,23 @@ Threat can exploit sleeping Vulnerability in OS and Codes.
 🧩 Vulnerability
 
 A weakness that allows a threat to succeed.
-Examples: unpatched systems, weak passwords, and poor security practices such as
--  Heavy-theory environments – lots of documentation, but no real protection
+Examples: unpatched systems, weak passwords, lack of MFA and poor security practices such as
+-  Heavy-theory  environments – lots of documentation, but no real protection
 - Security theater – compliance over actual security
-- Politics over protection – decisions made to avoid blame or look good, not to reduce risk
+- Politics over protection – decisions made to avoid blame or look good on paper, not to reduce risk
 - Resistance to change – delay to upgrade, patch, or modernise systems and wait weeks for approval
 - Lack of leadership support – security seen as a cost, not a strategic priority
+💰 Risk
+- The potential loss (financial or otherwise) if a threat exploits a vulnerability and impacts an asset.
 
 💰 Risk Formula
 
 Risk = Threat × Vulnerability × Impact
-
 High risk = real threat + weak defenses + valuable asset
-
 Reducing any one factor lowers overall risk.
+
+So If there is  no threat, no vulnerability, or no impact, the risk is low or zero. If all three are high, the risk is critical.
+
 
 Infrastructure as Code (IaC) with Terraform, and CI/CD pipelines automation.
 Automate Configuration Deployment with Ansible.

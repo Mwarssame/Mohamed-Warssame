@@ -107,7 +107,10 @@ Examples:
 
 ##  Risk
 
-The potential loss (financial or otherwise) if a threat exploits a vulnerability and impacts an asset.
+The potential loss (financial or otherwise) if a threat exploits a vulnerability and impacts an asset.  or In simple terms 
+- **Risk** – is how much a business could lose if a threat takes advantage of a vulnerability — like a burglar walking through an unlocked door. In cybersecurity, this could be weak access controls or an unpatched system.
+
+
 
 ##  Risk Formula
 

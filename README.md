@@ -12,7 +12,7 @@
 ## 📑 Table of Contents
 
 - [Introduction](#introduction)
-- [The Pentesting Lesson](#the-Lessons-from-pentesting)
+- [The Lessons from pentesting](#the-Lessons-from-pentesting)
 - [Who I Am](#who-i-am)
 - [🛠️ Skills & Mindset](#️skills--mindset)
 - [🔐 Security on Paper - Domain 1 (CISSP)](#-security-on-paper---domain-1-cissp)

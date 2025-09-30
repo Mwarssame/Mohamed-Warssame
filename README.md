@@ -55,7 +55,7 @@ Sometimes tools lie, but the network doesn’t! 😅🔌
 
 ## Who I Am
 
-Where am I after 25 years?
+Where am I after 20 years?
 
 I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a passion for building resilient, secure systems and teaching what I learn.
 

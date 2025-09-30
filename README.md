@@ -34,7 +34,7 @@
 
 ## Introduction
 
-Since 2001, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission.
+Since 2005, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission.
 **My professional journey** began at **Computer Exchange (CEX)** and evolved through roles in **large retail chains**, **transport and logistics**, **healthcare**, **internet and email service providers (ISPs/ESPs)**, and **City Council**. I later joined **managed service providers (MSPs)**, contributed to **social media platforms**, and most recently transitioned into the **public sector**. Each domain brought its own challenges and shaped my approach to building secure, and resilient systems.
 
 

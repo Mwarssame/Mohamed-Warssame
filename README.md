@@ -68,7 +68,7 @@ I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a pa
 - Access and Identity Management (IAM) – RBAC, SSO, MFA (hybrid & cloud)  
 - Zero Trust Architecture, SASE, Network Access Control  
 - Next-Gen Firewalls (NGFWs), identity-based access control  
-- Routing & Switching: OSPF, BGP, MPLS  
+- Routing & Switching: OSPF, BGP, and MPLS  
 
 > **Knowing the Network is Knowing What We Need to Secure.**  
 > We can’t protect what we don’t understand.  
@@ -89,7 +89,7 @@ Examples: Servers, laptops, databases, IPs, brand trust, public perception, empl
 ##  Threat
 
 Anything that can cause damage to an asset.  
-Examples: Hackers, malware, ransomware, nation-state actors, zero-days, fires, floods.
+Examples: Hackers, malware, ransomware, nation-state actors, zero-days, fires and  floods.
 
 > Threats exploit vulnerabilities in OS and code.
 

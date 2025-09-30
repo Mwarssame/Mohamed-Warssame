@@ -108,7 +108,13 @@ Examples:
 ##  Risk
 
 The potential loss (financial or otherwise) if a threat exploits a vulnerability and impacts an asset.  or In simple terms 
-- **Risk** – is how much a business could lose if a threat takes advantage of a vulnerability — like a burglar walking through an unlocked door. In cybersecurity, this could be weak access controls or an unpatched system.
+- **Risk** – is how much a business could lose if a threat takes advantage of a vulnerability — like a burglar walking through an unlocked door.
+- The more valuable the asset, the higher the risk. Just like protecting cash in a safe — the more cash inside, the more important it is to lock it properly.
+-  In cybersecurity, an unpatched or weak system is like a wide-open safe full of cash — easy for attackers to walk in and take whatever they want.  
+
+
+
+
 
 
 

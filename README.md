@@ -40,13 +40,19 @@ Since 2005, I have been working in front of the same screen — but the light ch
 
 ---
 
-# The Pentesting Lesson
+# The Lessons from pentesting
 
-I saw a pentester relying on a tool and reporting that a server in a /25 subnet was offline. In reality, the server was live and reachable on the network — the tool just couldn’t see it. My heart nearly boiled — it felt like I’d taken the wrong medicine!
+
+
+
+
+One of the most striking lessons I’ve learned in pentesting is how easily tools can become a crutch — especially when they're used without a deeper understanding of the network. I’ve seen pentesters rely heavily on automated scanners, often running them outside the target network and expecting complete visibility.
+
+One incident that really stuck with me: a pentester reported that a server in a /25 subnet was offline. But in reality, the server was fully live and reachable — the tool had simply failed to detect it. That moment hit hard. It felt like being misdiagnosed and given the wrong medicine. My heart nearly boiled with frustration — not at the tool, but at the blind trust placed in it.
 
 I calmly said:  
 **“You’re not on the same subnet as the server. The server isn’t offline — you’re simply on a different network.”**  
-**Lesson:** Being inside a tool ≠ being on the network.  
+**Lesson learned:** Being inside a tool ≠ being on the network.  
 Dude, you’re inside the tool — but not inside the network! 🤦‍♂️😂  
 Sometimes tools lie, but the network doesn’t! 😅🔌  
 **Know your routing. Know your scope. Tools don’t replace understanding.**

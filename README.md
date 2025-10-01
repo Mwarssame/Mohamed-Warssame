@@ -362,6 +362,12 @@ show ip bgp neighbors | include update
  1. Show all active authentication sessions  
 show authentication sessions | include Gi|Dot1x
 
+Interface    MAC Address    Method   Domain   Status       Session ID
+Gi1/0/2      00e0.b0aa.c123  Dot1x   DATA     Authz Success  0A123456000001
+Gi1/0/4      00e0.b0aa.c124  Dot1x   VOICE    Authz Success  0A123456000002
+Gi1/0/5                           Dot1x                      AUTHENTICATING
+
+
 View all authenticated interfaces and methods (802.1X, MAB).
 
 2. Detailed session info for a specific port  

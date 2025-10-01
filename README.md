@@ -255,18 +255,8 @@ example only!
  Get executable path of a process and Retrieves the process with the Process ID (PID) 7204 for FireFox
 
 Get-Process -Id 7204 | Select-Object Path
-
-
 ----
 C:\Program Files\Mozilla Firefox\firefox.exe
-
-Get-Process -Name firefox | Select-Object Id, Name, Path, CPU, StartTime
-**Id        : 7204**
-Name      : firefox
-Path      : C:\Program Files\Mozilla Firefox\firefox.exe
-CPU       : 103.6875
-StartTime : 21/09/2023 19:00:51.
-
 
 Get-Process -Name firefox | Select-Object Id, Name, Path, CPU, StartTime
 
@@ -291,7 +281,7 @@ Capturing on 'WiFi'
 The DNS server replies with a DNS response:
 We see  several IP addresses for bbc.co.uk (there are multiple IPs for load balancing right as shown below
 
-= 151.101.64.81
+- 151.101.64.81
 - 151.101.128.81
 - 151.101.192.81
 - 151.101.0.8

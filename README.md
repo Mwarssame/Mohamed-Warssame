@@ -239,17 +239,17 @@ Get-Process | Sort-Object -Property WorkingSet -Descending | Select-Object -Firs
 
 example only!
 
-Name                Id         CPU WorkingSet
-----                --         --- ----------
-chrome           20256  1382.84375  300109824
-chrome            7348  2320.40625  248123392
-firefox           7204   94.609375  242147328
-explorer         11632  5119.34375  204382208
-firefox           9436  578.953125  204263424
-chrome           26396  115.015625  188690432
-firefox          16120    50.21875  178356224
-chrome           15308    2953.125  161460224
-chrome           13848   303.90625  151748608
+| Name     | Id    | CPU        | WorkingSet |
+|----------|-------|------------|-------------|
+| chrome   | 20256 | 1382.84375 | 300109824   |
+| chrome   |  7348 | 2320.40625 | 248123392   |
+| firefox  |  7204 |  94.609375 | 242147328   |
+| explorer | 11632 | 5119.34375 | 204382208   |
+| firefox  |  9436 | 578.953125 | 204263424   |
+| chrome   | 26396 | 115.015625 | 188690432   |
+| firefox  | 16120 |  50.21875  | 178356224   |
+| chrome   | 15308 | 2953.125   | 161460224   |
+| chrome   | 13848 | 303.90625  | 151748608   |
 
 
  Get executable path of a process and Retrieves the process with the Process ID (PID) 7204 for FireFox

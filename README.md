@@ -135,7 +135,43 @@ Lowering any one factor reduces risk.
 - GDPR, NIST, Data Protection Best Practices  
 - Data classification, minimisation, anonymisation  
 - Incident response & breach notification  
-- Employee security awareness  
+- Employee security awareness
+- 
+🛡️ Security Controls Framework – Grouped by the 5 Core Control Types.
+
+🔐 Preventive Controls.
+
+- Designed to stop security incidents before they occur by limiting access and reducing attack surfaces.
+- TLS for encrypted communications
+- IAM policies to enforce least privilege access
+- 802.1X NAC (Network Access Control) for port-based authentication
+- Network segmentation to isolate and protect resources
+
+🕵️ Detective Controls
+
+- Enable detection of threats and suspicious behavior, providing visibility into the environment.
+- Centralized logging (e.g., syslog, ELK stack)
+- Real-time monitoring and alerting
+- Audit trails for compliance and forensic analysis
+
+🛠️ Corrective Controls
+- Support recovery or mitigation after a security event to restore systems to a secure state.
+- Automated remediation scripts (e.g., via Ansible or Lambda)
+- Rollback plans integrated into CI/CD pipelines
+- Patching pipelines for timely vulnerability mitigation
+
+🚨 Deterrent Controls
+- Designed to discourage malicious activity by increasing the perceived risk of detection or consequences.
+- Employee security awareness training
+- Policy enforcement (e.g., acceptable use policies, device compliance)
+- Visible security controls (e.g., banners, login warnings, access badges)
+
+🧩 Compensating Controls
+
+- Used when standard controls are not feasible; they reduce risk to an acceptable level.
+- Multi-Factor Authentication (MFA)
+- Bastion hosts for controlled administrative access
+- Encryption at rest and in transit, especially where native platform controls are lacking
 
 > I strive to learn what I do not know and practice what I know — continuously evolving as a security technologist and network professional.
 ---

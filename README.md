@@ -265,7 +265,17 @@ Get-Process -Name firefox | Select-Object Id, Name, Path, CPU, StartTime
 Name      : firefox
 Path      : C:\Program Files\Mozilla Firefox\firefox.exe
 CPU       : 103.6875
-StartTime : 21/09/2023 19:00:51
+StartTime : 21/09/2023 19:00:51.
+
+
+Get-Process -Name firefox | Select-Object Id, Name, Path, CPU, StartTime
+
+Id         : 7204
+Name       : firefox
+Path       : C:\Program Files\Mozilla Firefox\firefox.exe
+CPU        : 103.6875
+StartTime  : 21/09/2023 19:00:51
+
 
 live DNS traffic captured by tshark on a live endpoint.
  tshark -i 6 -f "udp port 53" -Y "dns"

@@ -175,10 +175,13 @@ Lowering any one factor reduces risk.
 - Streamlined SIEM & SOC workflows  
 - Deployed SolarWinds for cloud monitoring  
 - Cisco LAN refresh: DNA Centre & SD-Access  
-- Meraki rollout across 7 offices  
-- Migrated 120 sites to AWS & Azure  
+- Rolled out Meraki infrastructure across 7 regional offices 
+- Migrated 120+ sites to AWS and Azure, enhancing scalability, resilience and Cloud native presence.
 - Memory Forensics & Vulnerability Management  
-- Delivered HLD/LLD documentation & knowledge base articles  
+- Delivered HLD/LLD documentation & knowledge base articles.
+- Delivered Disaster Recovery and Business Continuity solutions for 4 data centers (AWS, Azure, and 2 physical DCs)
+- Designed and implemented Prisma Access monitoring and reporting capabilities. 
+
 
 ---
 

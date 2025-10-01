@@ -272,6 +272,12 @@ live DNS traffic captured by tshark on a live endpoint.
   1   0.000000 172.20.10.41 → 8.8.8.8  DNS 90 Standard query 0x2094 A self.events.data.microsoft.com
     2   0.027596 8.8.8.8 → 172.20.10.41 1 DNS 213 Standard query response 0x2094 A self.events.data.microsoft.com CNAME self-events-data.trafficmanager.net CNAME onedscolprdneu04.northeurope.cloudapp.azure.com A 20.50.73.10    [ a none production test machine to simulate production environment]
 
+
+tshark -i 6 -f "udp port 53" -Y "dns"
+1   0.000000 172.20.10.41 → 8.8.8.8  DNS 90 Standard query 0x2094 A self.events.data.microsoft.com
+2   0.027596 8.8.8.8 → 172.20.10.41 1 DNS 213 Standard query response 0x2094 A self.events.data.microsoft.com CNAME self-events-data.trafficmanager.net CNAME onedscolprdneu04.northeurope.cloudapp.azure.com A 20.50.73.10    [ a non-production test machine to simulate production environment]
+
+
 what about BBC.
 
  tshark -i 6 -Y "dns.qry.name contains bbc.co.uk"

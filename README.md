@@ -382,6 +382,11 @@ Check authentication method, VLAN assignment, and status on a port.
 
 3. Check ISE dynamic VLAN assignment  
 show authentication sessions interface Gi1/0/5 | include VLAN
+Switch# show authentication sessions interface Gi1/0/5 | include VLAN
+
+Data VLAN: 20
+Voice VLAN: 30
+
 
 Verify if ISE dynamically assigned a VLAN after authentication.
 

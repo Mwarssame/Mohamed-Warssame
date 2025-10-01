@@ -119,17 +119,11 @@ The potential loss (financial or otherwise) if a threat exploits a vulnerability
 -  In cybersecurity, an unpatched or weak system is like a wide-open safe full of cash — easy for attackers to walk in and take whatever they want.  
 
 
-
-
-
-
-
 ##  Risk Formula
 
 **Risk = Threat × Vulnerability × Impact**  
 High Risk = Real Threat + Weak Defenses + Valuable Asset  
 Lowering any one factor reduces risk.
-
 ---
 
 ## Infrastructure & Data Security
@@ -144,7 +138,6 @@ Lowering any one factor reduces risk.
 - Employee security awareness  
 
 > I strive to learn what I do not know and practice what I know — continuously evolving as a security technologist and network professional.
-
 ---
 
 ##  Lifelong Learning
@@ -153,7 +146,6 @@ Lowering any one factor reduces risk.
 - Writing articles on network defense & automation  
 - Never left the field — both learner & teacher  
 - Passionate about automation, security, and resilient systems  
-
 ---
 
 ## Tools & Vendors
@@ -162,7 +154,6 @@ Lowering any one factor reduces risk.
 - Cisco, Meraki, F5, Juniper, Palo Alto  
 - Wireshark, Linux  
 - Terraform, Ansible and more  
-
 ---
 
 ##  Key Projects & Achievements (2021–2024)
@@ -181,8 +172,6 @@ Lowering any one factor reduces risk.
 - Delivered HLD/LLD documentation & knowledge base articles.
 - Delivered Disaster Recovery and Business Continuity solutions for 4 data centers (AWS, Azure, and 2 physical DCs)
 - Designed and implemented Prisma Access monitoring and reporting capabilities. 
-
-
 ---
 
 ## Looking Ahead: 2025 and Beyond
@@ -195,9 +184,6 @@ As technology and threats evolve, so does my focus. In the years ahead, my work 
 - SOAR/XDR Engineering for automated threat response.  
 - Governance & Compliance (ISO 27001, NIST, GDPR, NCSC).
 - Home Lab Testing** – a safe space to break and build without risk — staying ahead of threats and out of real-world danger.
-
-
-
 ---
 
 ## **Full Network and Cybersecurity Forensics toolkit coming soon**  
@@ -205,7 +191,6 @@ Stay tuned for:
 - In-depth guides  
 - Real-world use cases  
 - Hands-on tools
-
 ---
 
 ##  Memory Forensics & Vulnerability Toolkit
@@ -213,7 +198,6 @@ Stay tuned for:
 A curated guide and toolkit to blend **memory forensics** with **vulnerability management**.
 
 > Built for security professionals, incident responders, and learners looking to apply forensics in real environments.
-
 ---
 
 ## Vulnerability Management Framework
@@ -344,24 +328,28 @@ volatility -f memory.dmp --profile=Win10x64 netscan
 **BGP Troubleshooting Command Reference – CLI tools for verifying BGP behaviour when rolling out new projects or making changes in existing network environments.**
 
 
-*Show detailed info for a specific BGP neighbor.*
+Show detailed info for a specific BGP neighbor.
 show ip bgp neighbors <neighbor-IP> advertised-routes | include <prefix>
-*Show routes advertised to a neighbor filtered by prefix.*
+
+Show routes advertised to a neighbor filtered by prefix.
 show ip bgp neighbors <neighbor-IP> received-routes | include <prefix>
 
-*Show routes received from a neighbor filtered by prefix.*
+Show routes received from a neighbor filtered by prefix.
 show ip bgp neighbors <neighbor-IP> advertised-routes | include *>
-*Show advertised active BGP paths to a neighbor.*
+
+Show advertised active BGP paths to a neighbor.
 show ip bgp <prefix> | include AS_PATH|Next Hop
 
 *Display BGP path attributes for a prefix.*
 show ip prefix-list | include <prefix or permit|deny>
-*Filter BGP prefix-lists by prefix or action.*
+
+Filter BGP prefix-lists by prefix or action.
 show route-map | section <route-map-name>
 
 *Show route-map entries relevant to BGP policies.*
 show ip bgp neighbors | include Idle|Active|Estab
-*Filter BGP neighbor session states.*
+
+Filter BGP neighbor session states.
 show ip bgp neighbors | include update
 *Check BGP neighbors’ update counts.*
 

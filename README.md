@@ -64,12 +64,12 @@ I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a pa
 ---
 ## Skills & Mindset
 
-- Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds)  
+- Cybersecurity, Monitoring & Tooling.  
 - Defensive Security & Cloud-First Security Architectures  
 - Access and Identity Management (IAM) – RBAC, SSO, MFA (hybrid & cloud)  
-- Zero Trust Architecture, SASE, Network Access Control  
-- Next-Gen Firewalls (NGFWs), identity-based access control  
-- Routing & Switching: OSPF, BGP, and MPLS  
+- Zero Trust Architecture, SASE and  Network Access Control  
+- Next-Gen Firewalls (NGFWs) and  identity-based access control  
+- Routing & Switching: OSPF, BGP and MPLS  
 
 > **Knowing the Network is Knowing What We Need to Secure.**  
 > We can’t protect what we don’t understand.  

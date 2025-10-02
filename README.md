@@ -68,7 +68,8 @@ I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a pa
 - Defensive Security & Cloud-First Security Architectures  
 - Access and Identity Management (IAM) – RBAC, SSO, MFA (hybrid & cloud)  
 - Zero Trust Architecture, SASE and  Network Access Control  
-- Next-Gen Firewalls (NGFWs) and  identity-based access control  
+- Next-Gen Firewalls (NGFWs)  [Firewall Configuration Best Practices](Mwarssame/FIREWALL-CONFIGURATION-BEST-PRACTICES.md)
+and  identity-based access control  
 - Routing & Switching: OSPF, BGP and MPLS  
 
 > **Knowing the Network is Knowing What We Need to Secure.**  

@@ -27,8 +27,8 @@
 - [🚀 Key Projects & Achievements (2021–2024)](#key-projects--achievements-20212024)
 - [🎯 Looking Ahead: 2025 and Beyond](#looking-ahead-2025-and-beyond)
 - [🧪 Memory Forensics & Vulnerability Toolkit](#memory-forensics--vulnerability-toolkit)
-  - [🛡️ Vulnerability Management Framework](#️vulnerability-management-framework)
-  - [🔍 Memory Forensics Highlights](#memory-forensics-highlights)
+- [🛡️ Vulnerability Management Framework](#️vulnerability-management-framework)
+ - [🔍 Memory Forensics Highlights](#memory-forensics-highlights)
 
 ---
 

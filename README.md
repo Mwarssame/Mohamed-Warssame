@@ -37,13 +37,9 @@
 Since 2005, I have been working in front of the same screen — but the light changes every six months. Technology evolves rapidly, and so do I. Staying current and adapting has always been my mission.
 **My professional journey** began at **Computer Exchange (CEX)** and evolved through roles in **large retail chains**, **transport and logistics**, **healthcare**, **internet and email service providers (ISPs/ESPs)**, and **City Council**. I later joined **managed service providers (MSPs)**, contributed to **social media platforms**, and most recently transitioned into the **public sector**. Each domain brought its own challenges and shaped my approach to building secure, and resilient systems.
 
-
 ---
 
 # The Lessons from pentesting
-
-
-
 
 
 One of the most striking lessons I’ve learned in pentesting is how easily tools can become a crutch — especially when they're used without a deeper understanding of the network. I’ve seen pentesters rely heavily on automated scanners, often running them outside the target network and expecting complete visibility.
@@ -66,7 +62,6 @@ Where am I after 20 years?
 I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a passion for building resilient, secure systems and teaching what I learn.
 
 ---
-
 ## Skills & Mindset
 
 - Cybersecurity Fundamentals, Monitoring & Tooling (e.g., SolarWinds)  
@@ -84,7 +79,6 @@ I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a pa
 > Memorising names doesn’t protect infrastructures — taking action does.”
 
 ---
-
 ## 🔐 Security on Paper - Domain 1 (CISSP)
 
 ##  Asset

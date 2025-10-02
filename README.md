@@ -190,9 +190,9 @@ Lowering any one factor reduces risk.
 
 - Mitigated **Log4j** vulnerability across prod environments  
 - Deployed GCP key rotation, IAM access control, CMEK, EKM  
-- Upgraded 54 NGFWs  
-- Designed/tuned SOAR & XSIAM platforms  
-- Built IR playbooks with integrated threat intel  
+- Upgraded 54 Next Generation FireWalls  
+- Designed/tuned SOAR platforms  
+- Built IR playbooks with integrated threat intelligence   
 - Streamlined SIEM & SOC workflows  
 - Deployed SolarWinds for cloud monitoring  
 - Cisco LAN refresh: DNA Centre & SD-Access  
@@ -201,7 +201,7 @@ Lowering any one factor reduces risk.
 - Memory Forensics & Vulnerability Management  
 - Delivered HLD/LLD documentation & knowledge base articles.
 - Delivered Disaster Recovery and Business Continuity solutions for 4 data centers (AWS, Azure, and 2 physical DCs)
-- Designed and implemented Prisma Access monitoring and reporting capabilities. 
+- Designed and implemented SASE monitoring and reporting capabilities. 
 ---
 
 ## Looking Ahead: 2025 and Beyond

@@ -69,8 +69,7 @@ I am a **Network | Cloud & Cybersecurity | Consultant | Technologist** with a pa
 - Access and Identity Management (IAM) – RBAC, SSO, MFA (hybrid & cloud)  
 - Zero Trust Architecture, SASE and  Network Access Control  
 - Next-Gen Firewalls (NGFWs)[Firewall Configuration Best Practices](https://github.com/Mwarssame/FIREWALL-CONFIGURATION-BEST-PRACTICES)
-
-and  identity-based access control  
+-  identity-based access control RBAC ( authenticated identity of a user, service, or device) Therefor Who you are determines what you can access 
 - Routing & Switching: OSPF, BGP and MPLS  
 
 > **Knowing the Network is Knowing What We Need to Secure.**  
